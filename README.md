@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @888th aka Hasani 
 - 👀 I’m interested in Python for geospatial analysis, GIS and cutting edge geospatial technology 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on any geospatial data application 
+- 🔥 I’m looking to collaborate on any geospatial data application 
 - 📫 you can reach me at hasani.tlr@gmail.com 
 
 <!---
